@@ -4,7 +4,7 @@
   "description": "back to avitur",
   "main": "index.js",
   "scripts": {
-    "dev" : "nodemon ."
+    "dev": "nodemon ."
   },
   "author": "Michael Farfán",
   "license": "ISC",
